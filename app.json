@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "DoctorSaahab",
+    "slug": "DoctorSaahab",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./bg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0e4d92"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "pk.edu.lums.doctorsaahab",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    }
+  }
+}
